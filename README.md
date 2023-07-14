@@ -4,6 +4,9 @@ The ABZ Security Box is a security program created for ESP32-S3. This software i
 
 This was a final team project at the University of California, San Diego for ECE 196 (Hands-on Engineering Project).
 
+An adjustable DC Boost Converter Workshop is also attached for speaker voltage adjustments. Learn about the LM2577-ADJ IC:
+For more details, see [details](ABZ%20Workshop%20LM2577-ADJ.pdf).
+
 Please visit our website at:
 https://sites.google.com/view/abz-secure
 
