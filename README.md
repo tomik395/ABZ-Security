@@ -16,9 +16,11 @@ https://sites.google.com/view/abz-secure
 - You will need a constant and stable WiFi connection to maintain SMS communication.
 - This code is compatible with any ESP32 with WiFi capability. Wifi-capable Arduino devices will require code alteration due to differing WiFi connection libraries.
 
-## PCB Prototype
+## PCB Design
 
-PCB design and prototype images are provided for users wishing to design the system from scratch, as opposed to a pre-made ESP32 device. KiCad was used to design the prototype. Since this design uses plenty of small ICs and 0402 footprint passive components, either PCB manufacturer assembly or a reflow oven is required.
+PCB design and result images are provided on our website for users wishing to design the system from scratch, as opposed to a pre-made ESP32 device. KiCad was used to design the prototype. Since this design uses plenty of small ICs and 0402 footprint passive components, either PCB manufacturer assembly or a reflow oven is required.
+
+If users wish to veer away from a PCB design, this code and the schematics found in the PCB files folder are compatible with any pre-made ESP32 device.
 
 ## Variables
 
